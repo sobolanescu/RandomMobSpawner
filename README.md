@@ -16,7 +16,7 @@ RMS (Random Mob Spawner) is a Minecraft datapack that adds an exciting challenge
 
 RMS datapack comes with several commands to manage the gameplay experience. Below is the full list of available commands and their descriptions:
 
-- `/function rms:show`: Displays the countdown timer again if it was hidden using the `/function rms:hide` command.  
+- `/function rms:show`: Displays the countdown timer.  
   **Usage:** `/function rms:show`
 
 - `/function rms:hide`: Hides the countdown timer. This is useful if you want to keep the screen clean without showing the countdown.  
