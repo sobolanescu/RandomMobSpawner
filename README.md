@@ -19,6 +19,16 @@ This datapack was developed on Minecraft version 1.21.4.
 - Spawns occur every 10 seconds, adding variety to your Minecraft world.
 - Perfect for players looking for unpredictable and adrenaline-filled gameplay.
 
+## How to Install
+
+**In order for the datapack to work, Allow Commands setting must be set to** `ON`**.**
+
+1. Download the datapack file from this repository.
+2. Navigate to the `datapacks` folder of your Minecraft world.
+3. Place the downloaded datapack folder `RandomMobSpawner` into the `datapacks` folder.
+4. Launch your Minecraft world and activate the datapack.
+5. Use `/function rms:start` to start the game.
+
 ## Commands
 
 RMS datapack comes with several commands to manage the gameplay experience. Below is the full list of available commands and their descriptions:
@@ -135,13 +145,6 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Creaking</td>
   </tr>
 </table>
-
-## How to Install
-
-1. Download the datapack file from this repository.
-2. Navigate to the `datapacks` folder of your Minecraft world.
-3. Place the downloaded datapack folder `RandomMobSpawner` into the `datapacks` folder.
-4. Launch your Minecraft world and activate the datapack from the settings menu.
 
 ## Notes
 
