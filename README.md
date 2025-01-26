@@ -47,34 +47,36 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Cow</td>
     <td>Dolphin</td>
     <td>Donkey</td>
-    <td>Fox</td>
   </tr>
   <tr>
+    <td>Fox</td>
     <td>Horse</td>
     <td>Llama</td>
     <td>Mooshroom</td>
     <td>Ocelot</td>
-    <td>Panda</td>
-    <td>Parrot</td>
   </tr>
   <tr>
+    <td>Panda</td>
+    <td>Parrot</td>
     <td>Pig</td>
     <td>Rabbit</td>
     <td>Sheep</td>
-    <td>Squid</td>
-    <td>Wolf</td>
-    <tdBee</td>
   </tr>
   <tr>
+    <td>Squid</td>
+    <td>Wolf</td>
+    <td>Bee</td>
     <td>Axolotl</td>
     <td>Glow Squid</td>
+  </tr>
+  <tr>
     <td>Goat</td>
     <td>Turtle</td>
     <td>Evoker</td>
     <td>Illusioner</td>
+    <td>Pillager</td>
   </tr>
   <tr>
-    <td>Pillager</td>
     <td>Villager</td>
     <td>Vindicator</td>
     <td>Wandering Trader</td>
@@ -87,34 +89,36 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Creeper</td>
     <td>Elder Guardian</td>
     <td>Enderman</td>
-    <td>Endermite</td>
   </tr>
   <tr>
+    <td>Endermite</td>
     <td>Ghast</td>
     <td>Hoglin</td>
     <td>Husk</td>
     <td>Magma Cube</td>
-    <td>Polar Bear</td>
-    <td>Ravager</td>
   </tr>
   <tr>
+    <td>Polar Bear</td>
+    <td>Ravager</td>
     <td>Silverfish</td>
     <td>Skeleton</td>
     <td>Slime</td>
+  </tr>
+  <tr>
     <td>Spider</td>
     <td>Strider</td>
     <td>Stray</td>
-  </tr>
-  <tr>
     <td>Vex</td>
     <td>Zombie</td>
+  </tr>
+  <tr>
     <td>Zombie Horse</td>
     <td>Zombified Piglin</td>
     <td>Snow Golem</td>
     <td>End Crystal</td>
+    <td>Shulker</td>
   </tr>
   <tr>
-    <td>Shulker</td>
     <td>Witch</td>
     <td>Warden</td>
     <td>Allay</td>
@@ -129,7 +133,6 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Creaking</td>
   </tr>
 </table>
-
 
 ## How to Install
 
