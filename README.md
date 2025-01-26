@@ -69,7 +69,6 @@ Here’s the full list of mobs that can randomly spawn:
 - Bat
 - Creeper
 - Elder Guardian
-- Ender Dragon
 - Enderman
 - Endermite
 - Ghast
