@@ -11,7 +11,6 @@ RMS (Random Mob Spawner) is a Minecraft datapack that adds an exciting challenge
 - Mobs are randomly chosen and include both aggressive monsters (Creepers, Zombies, Skeletons) and passive animals (Cats, Rabbits, Sheep, etc.).
 - Spawns occur every 10 seconds, adding variety to your Minecraft world.
 - Perfect for players looking for unpredictable and adrenaline-filled gameplay.
-- Mobs can appear anywhere near the player, bringing moments of relaxation as well as intensifying game tension.
 
 ## List of Mobs
 
@@ -95,10 +94,6 @@ Here’s the full list of mobs that can randomly spawn:
 
 - This datapack does not change core gameplay; it only adds an unpredictable element with random mob spawns.
 - You can adjust or disable the mob spawn interval by modifying the datapack files.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
