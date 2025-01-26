@@ -2,7 +2,7 @@
 
 <center><table style="width: 100%; border: none; border-spacing: 0;">
   <tr>
-    <td style="text-align: left; width: 50%;"><img src="pack.png" alt="Pack Image" /></td>
+    <td style="text-align: left; width: 50%;"><img src="RandomMobSpawner/pack.png" alt="Pack Image" /></td>
     <td style="text-align: right; width: 50%;"><img src="logo.png" alt="Logo Image" /></td>
   </tr>
 </table></center>
@@ -138,7 +138,7 @@ Here’s the full list of mobs that can randomly spawn:
 
 1. Download the datapack file from this repository.
 2. Navigate to the `datapacks` folder of your Minecraft world.
-3. Place the downloaded datapack file into the `datapacks` folder.
+3. Place the downloaded datapack folder `RandomMobSpawner` into the `datapacks` folder.
 4. Launch your Minecraft world and activate the datapack from the settings menu.
 
 ## Notes
