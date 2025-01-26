@@ -1,11 +1,12 @@
 # RMS - Random Mob Spawner
 
-<p align="left" style="display: inline-block; width: 50%;">
-  <img src="pack.png" alt="Pack Image" />
-</p>
-<p align="right" style="display: inline-block; width: 50%;">
-  <img src="logo.png" alt="Logo Image" />
-</p>
+<table style="width: 100%; border: none; border-spacing: 0;">
+  <tr>
+    <td style="text-align: left; width: 50%;"><img src="pack.png" alt="Pack Image" /></td>
+    <td style="text-align: right; width: 50%;"><img src="logo.png" alt="Logo Image" /></td>
+  </tr>
+</table>
+
 
 
 ## Description
