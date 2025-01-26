@@ -40,71 +40,96 @@ These commands provide control over the game mechanics, allowing you to start, s
 
 Here’s the full list of mobs that can randomly spawn:
 
-- Cat
-- Chicken
-- Cow
-- Dolphin
-- Donkey
-- Fox
-- Horse
-- Llama
-- Mooshroom
-- Ocelot
-- Panda
-- Parrot
-- Pig
-- Rabbit
-- Sheep
-- Squid
-- Wolf
-- Bee
-- Axolotl
-- Glow Squid
-- Goat
-- Turtle
-- Evoker
-- Illusioner
-- Pillager
-- Villager
-- Vindicator
-- Wandering Trader
-- Guardian
-- Phantom
-- Blaze
-- Bat
-- Creeper
-- Elder Guardian
-- Enderman
-- Endermite
-- Ghast
-- Hoglin
-- Husk
-- Magma Cube
-- Polar Bear
-- Ravager
-- Silverfish
-- Skeleton
-- Slime
-- Spider
-- Strider
-- Stray
-- Vex
-- Zombie
-- Zombie Horse
-- Zombified Piglin
-- Snow Golem
-- End Crystal
-- Shulker
-- Witch
-- Warden
-- Allay
-- Sniffer
-- Frog
-- Breeze
-- Bogged
-- Armadillo
-- Wither
-- Creaking
+<table style="width: 100%; border: none; border-spacing: 0;">
+  <tr>
+    <td>Cat</td>
+    <td>Chicken</td>
+    <td>Cow</td>
+    <td>Dolphin</td>
+    <td>Donkey</td>
+    <td>Fox</td>
+  </tr>
+  <tr>
+    <td>Horse</td>
+    <td>Llama</td>
+    <td>Mooshroom</td>
+    <td>Ocelot</td>
+    <td>Panda</td>
+    <td>Parrot</td>
+  </tr>
+  <tr>
+    <td>Pig</td>
+    <td>Rabbit</td>
+    <td>Sheep</td>
+    <td>Squid</td>
+    <td>Wolf</td>
+    <tdBee</td>
+  </tr>
+  <tr>
+    <td>Axolotl</td>
+    <td>Glow Squid</td>
+    <td>Goat</td>
+    <td>Turtle</td>
+    <td>Evoker</td>
+    <td>Illusioner</td>
+  </tr>
+  <tr>
+    <td>Pillager</td>
+    <td>Villager</td>
+    <td>Vindicator</td>
+    <td>Wandering Trader</td>
+    <td>Guardian</td>
+    <td>Phantom</td>
+  </tr>
+  <tr>
+    <td>Blaze</td>
+    <td>Bat</td>
+    <td>Creeper</td>
+    <td>Elder Guardian</td>
+    <td>Enderman</td>
+    <td>Endermite</td>
+  </tr>
+  <tr>
+    <td>Ghast</td>
+    <td>Hoglin</td>
+    <td>Husk</td>
+    <td>Magma Cube</td>
+    <td>Polar Bear</td>
+    <td>Ravager</td>
+  </tr>
+  <tr>
+    <td>Silverfish</td>
+    <td>Skeleton</td>
+    <td>Slime</td>
+    <td>Spider</td>
+    <td>Strider</td>
+    <td>Stray</td>
+  </tr>
+  <tr>
+    <td>Vex</td>
+    <td>Zombie</td>
+    <td>Zombie Horse</td>
+    <td>Zombified Piglin</td>
+    <td>Snow Golem</td>
+    <td>End Crystal</td>
+  </tr>
+  <tr>
+    <td>Shulker</td>
+    <td>Witch</td>
+    <td>Warden</td>
+    <td>Allay</td>
+    <td>Sniffer</td>
+    <td>Frog</td>
+  </tr>
+  <tr>
+    <td>Breeze</td>
+    <td>Bogged</td>
+    <td>Armadillo</td>
+    <td>Wither</td>
+    <td>Creaking</td>
+  </tr>
+</table>
+
 
 ## How to Install
 
