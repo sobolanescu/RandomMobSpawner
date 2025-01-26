@@ -7,6 +7,8 @@ scoreboard players reset @a[scores={random_mob_choice=1..}] random_mob_choice
 scoreboard players reset @a[scores={countdown=1..}] countdown
 scoreboard players reset @a[scores={tick_timer=1..}] tick_timer
 
+scoreboard players set @a show_countdown 1
+
 scoreboard players set @a countdown 11
 
 # Mesaj
