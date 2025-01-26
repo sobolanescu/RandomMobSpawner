@@ -12,6 +12,25 @@ RMS (Random Mob Spawner) is a Minecraft datapack that adds an exciting challenge
 - Spawns occur every 10 seconds, adding variety to your Minecraft world.
 - Perfect for players looking for unpredictable and adrenaline-filled gameplay.
 
+## Commands
+
+RMS datapack comes with several commands to manage the gameplay experience. Below is the full list of available commands and their descriptions:
+
+- `/function rms:show`: Displays the countdown timer again if it was hidden using the `/function rms:hide` command.  
+  **Usage:** `/function rms:show`
+
+- `/function rms:hide`: Hides the countdown timer. This is useful if you want to keep the screen clean without showing the countdown.  
+  **Usage:** `/function rms:hide`
+
+- `/function rms:start`: Starts the countdown timer and begins spawning random mobs every 10 seconds. This command is used to initiate the mob spawning game.  
+  **Usage:** `/function rms:start`
+
+- `/function rms:stop`: Stops the mob spawning and disables the countdown timer. Use this to halt the game and stop mobs from spawning.  
+  **Usage:** `/function rms:stop`
+
+These commands provide control over the game mechanics, allowing you to start, stop, or hide the countdown timer and mob spawning, giving you a customizable gameplay experience.
+
+
 ## List of Mobs
 
 Here’s the full list of mobs that can randomly spawn:
