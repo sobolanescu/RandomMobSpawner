@@ -1,6 +1,6 @@
 # RMS - Random Mob Spawner
 
-![Pack Image](pack.png)
+![Pack Image](pack.png) ![Pack Image](logo.png)
 
 ## Description
 
