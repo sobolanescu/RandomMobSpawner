@@ -155,3 +155,5 @@ Here’s the full list of mobs that can randomly spawn:
 
 If you enjoy dynamic gameplay with a variety of mobs constantly spawning around you, RMS is the perfect addition to your Minecraft experience!
 
+[Click here to watch the video](https://i.gyazo.com/9693d08a8e2b33335143b8560b843ae5.mp4)
+
