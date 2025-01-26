@@ -1,9 +1,9 @@
 # RMS - Random Mob Spawner
 
-<p align="left">
+<p align="left" style="display: inline-block; width: 50%;">
   <img src="pack.png" alt="Pack Image" />
 </p>
-<p align="right">
+<p align="right" style="display: inline-block; width: 50%;">
   <img src="logo.png" alt="Logo Image" />
 </p>
 
