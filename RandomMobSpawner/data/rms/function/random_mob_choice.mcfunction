@@ -1,4 +1,4 @@
-execute store result score @s random_mob_choice run random value 1..68
+execute store result score @s random_mob_choice run random value 1..72
 
 execute at @s if score @s random_mob_choice matches 1 run summon minecraft:cat ~ ~ ~
 execute at @s if score @s random_mob_choice matches 2 run summon minecraft:chicken ~ ~ ~
@@ -65,3 +65,8 @@ execute at @s if score @s random_mob_choice matches 64 run summon minecraft:bree
 execute at @s if score @s random_mob_choice matches 65 run summon minecraft:bogged ~ ~ ~
 execute at @s if score @s random_mob_choice matches 66 run summon minecraft:armadillo ~ ~ ~
 execute at @s if score @s random_mob_choice matches 67 run summon minecraft:wither ~ ~ ~
+execute at @s if score @s random_mob_choice matches 68 run summon minecraft:iron_golem ~ ~ ~
+execute at @s if score @s random_mob_choice matches 69 run summon minecraft:piglin_brute ~ ~ ~
+execute at @s if score @s random_mob_choice matches 70 run summon minecraft:cave_spider ~ ~ ~
+execute at @s if score @s random_mob_choice matches 71 run summon minecraft:wither_skeleton ~ ~ ~
+execute at @s if score @s random_mob_choice matches 72 run summon minecraft:pufferfish ~ ~ ~
