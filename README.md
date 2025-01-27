@@ -144,6 +144,13 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Wither</td>
     <td>Creaking</td>
   </tr>
+  <tr>
+    <td>Iron Golem</td>
+    <td>Piglin Brute</td>
+    <td>Cave Spider</td>
+    <td>Wither Skeleton</td>
+    <td>Pufferfish</td>
+  </tr>
 </table>
 
 ## Notes
