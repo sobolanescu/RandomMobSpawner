@@ -7,6 +7,8 @@
   </tr>
 </table></center>
 
+## Author
+
 [MY YOUTUBE CHANNEL](https://www.youtube.com/@sintandy)
 
 ## Description
