@@ -59,36 +59,34 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Cow</td>
     <td>Dolphin</td>
     <td>Donkey</td>
+    <td>Fox</td>
   </tr>
   <tr>
-    <td>Fox</td>
     <td>Horse</td>
     <td>Llama</td>
     <td>Mooshroom</td>
     <td>Ocelot</td>
-  </tr>
-  <tr>
     <td>Panda</td>
     <td>Parrot</td>
+  </tr>
+  <tr>
     <td>Pig</td>
     <td>Rabbit</td>
     <td>Sheep</td>
-  </tr>
-  <tr>
     <td>Squid</td>
     <td>Wolf</td>
     <td>Bee</td>
-    <td>Axolotl</td>
-    <td>Glow Squid</td>
   </tr>
   <tr>
+    <td>Axolotl</td>
+    <td>Glow Squid</td>
     <td>Goat</td>
     <td>Turtle</td>
     <td>Evoker</td>
     <td>Illusioner</td>
-    <td>Pillager</td>
   </tr>
   <tr>
+    <td>Pillager</td>
     <td>Villager</td>
     <td>Vindicator</td>
     <td>Wandering Trader</td>
@@ -101,36 +99,34 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Creeper</td>
     <td>Elder Guardian</td>
     <td>Creaking</td>
+    <td>Enderman</td>
   </tr>
   <tr>
-    <td>Enderman</td>
     <td>Endermite</td>
     <td>Ghast</td>
     <td>Hoglin</td>
     <td>Husk</td>
-  </tr>
-  <tr>
     <td>Magma Cube</td>
     <td>Polar Bear</td>
+  </tr>
+  <tr>
     <td>Ravager</td>
     <td>Silverfish</td>
     <td>Skeleton</td>
-  </tr>
-  <tr>
     <td>Slime</td>
     <td>Spider</td>
     <td>Strider</td>
-    <td>Stray</td>
-    <td>Vex</td>
   </tr>
   <tr>
+    <td>Stray</td>
+    <td>Vex</td>
     <td>Zombie</td>
     <td>Zombie Horse</td>
     <td>Zombified Piglin</td>
     <td>Snow Golem</td>
-    <td>End Crystal</td>
   </tr>
   <tr>
+    <td>End Crystal</td>
     <td>Shulker</td>
     <td>Witch</td>
     <td>Warden</td>
@@ -143,22 +139,20 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Bogged</td>
     <td>Armadillo</td>
     <td>Wither</td>
+    <td>Iron Golem</td>
   </tr>
   <tr>
-    <td>Iron Golem</td>
     <td>Piglin Brute</td>
     <td>Cave Spider</td>
     <td>Wither Skeleton</td>
     <td>Pufferfish</td>
-  </tr>
-  <tr>
     <td>Skeleton Horse</td>
     <td>Drowned</td>
+  </tr>
+  <tr>
     <td>Mule</td>
     <td>Zoglin</td>
     <td>Camel</td>
-  </tr>
-  <tr>
     <td>Piglin</td>
   </tr>
 </table>
