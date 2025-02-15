@@ -18,7 +18,7 @@ execute at @s if score @s random_mob_choice matches 15 run summon minecraft:shee
 execute at @s if score @s random_mob_choice matches 16 run summon minecraft:squid ~ ~ ~
 execute at @s if score @s random_mob_choice matches 17 run summon minecraft:wolf ~ ~ ~
 execute at @s if score @s random_mob_choice matches 18 run summon minecraft:bee ~ ~ ~
-execute at @s if score @s random_mob_choice matches 19 run summon minecraft:axolotl ~ ~ ~
+execute at @s if score @s random_mob_choice matches 19 run summon minecraft:axolotl ~ ~ ~ {Variant:4}
 execute at @s if score @s random_mob_choice matches 20 run summon minecraft:glow_squid ~ ~ ~
 execute at @s if score @s random_mob_choice matches 21 run summon minecraft:goat ~ ~ ~
 execute at @s if score @s random_mob_choice matches 22 run summon minecraft:turtle ~ ~ ~
