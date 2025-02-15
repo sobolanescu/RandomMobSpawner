@@ -7,6 +7,8 @@
   </tr>
 </table></center>
 
+[MY YOUTUBE CHANNEL](https://www.youtube.com/@sintandy)
+
 ## Description
 
 RMS (Random Mob Spawner) is a Minecraft datapack that adds an exciting challenge to your gameplay! Every 20 seconds, a random mob – either aggressive or passive – will spawn near you. Whether it’s a dangerous monster or a friendly animal, you’ll never know what to expect!
@@ -167,6 +169,5 @@ Here’s the full list of mobs that can randomly spawn:
 If you enjoy dynamic gameplay with a variety of mobs constantly spawning around you, RMS is the perfect addition to your Minecraft experience!
 
 [Click here to watch the video](https://i.gyazo.com/9693d08a8e2b33335143b8560b843ae5.mp4)
-
 
 
