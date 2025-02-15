@@ -100,49 +100,49 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Bat</td>
     <td>Creeper</td>
     <td>Elder Guardian</td>
-    <td>Enderman</td>
+    <td>Creaking</td>
   </tr>
   <tr>
+    <td>Enderman</td>
     <td>Endermite</td>
     <td>Ghast</td>
     <td>Hoglin</td>
     <td>Husk</td>
-    <td>Magma Cube</td>
   </tr>
   <tr>
+    <td>Magma Cube</td>
     <td>Polar Bear</td>
     <td>Ravager</td>
     <td>Silverfish</td>
     <td>Skeleton</td>
-    <td>Slime</td>
   </tr>
   <tr>
+    <td>Slime</td>
     <td>Spider</td>
     <td>Strider</td>
     <td>Stray</td>
     <td>Vex</td>
-    <td>Zombie</td>
   </tr>
   <tr>
+    <td>Zombie</td>
     <td>Zombie Horse</td>
     <td>Zombified Piglin</td>
     <td>Snow Golem</td>
     <td>End Crystal</td>
-    <td>Shulker</td>
   </tr>
   <tr>
+    <td>Shulker</td>
     <td>Witch</td>
     <td>Warden</td>
     <td>Allay</td>
     <td>Sniffer</td>
-    <td>Frog</td>
   </tr>
   <tr>
+    <td>Frog</td>
     <td>Breeze</td>
     <td>Bogged</td>
     <td>Armadillo</td>
     <td>Wither</td>
-    <td>Creaking</td>
   </tr>
   <tr>
     <td>Iron Golem</td>
@@ -150,6 +150,16 @@ Here’s the full list of mobs that can randomly spawn:
     <td>Cave Spider</td>
     <td>Wither Skeleton</td>
     <td>Pufferfish</td>
+  </tr>
+  <tr>
+    <td>Skeleton Horse</td>
+    <td>Drowned</td>
+    <td>Mule</td>
+    <td>Zoglin</td>
+    <td>Camel</td>
+  </tr>
+  <tr>
+    <td>Piglin</td>
   </tr>
 </table>
 
