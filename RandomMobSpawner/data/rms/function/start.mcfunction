@@ -9,7 +9,7 @@ scoreboard players reset @a[scores={tick_timer=1..}] tick_timer
 
 scoreboard players set @a show_countdown 1
 
-scoreboard players set @a countdown 11
+scoreboard players set @a countdown 21
 
 # Mesaj
 tellraw @a ["",{"text":"RANDOM MOB SPAWNER","color":"gold"},{"text":" - "},{"text":"ACTIVAT","color":"green"}]
